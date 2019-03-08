@@ -1,0 +1,31 @@
+1. 网络编程懒人入门(一)：快速理解网络通信协议 http://www.52im.net/thread-1095-1-1.html
+
+2. [通俗易懂]深入理解TCP协议（上）：理论基础 http://www.52im.net/thread-513-1-1.html
+
+3. 不为人知的网络编程(一)：浅析TCP协议中的疑难杂症(上篇) : http://www.52im.net/thread-1003-1-1.html
+
+4. P2P技术详解: http://www.52im.net/thread-50-1-1.html
+
+5. 高性能网络编程: http://www.52im.net/thread-561-1-1.html
+
+6. 网络编程基础: http://docs.52im.net/extend/docs/book/tcpip/vol1/11/
+
+
+
+=============== 华丽的分割线 ====================
+
+http://www.52im.net/topic-tcpipvol1.html
+
+http://docs.52im.net/extend/docs/book/tcpip/vol1/1/
+
+http://www.52im.net/thread-1293-1-1.html
+
+http://www.52im.net/thread-1003-1-1.html
+
+http://www.52im.net/thread-1095-1-1.html
+
+http://www.52im.net/thread-1003-1-1.html
+
+http://www.52im.net/thread-50-1-1.html
+
+http://docs.52im.net/extend/docs/book/tcpip/vol1/11/
